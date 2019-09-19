@@ -4,3 +4,4 @@ Edit2:
 Edit3: 
 Edit4: testando branch
 Edit5: para causar  um conflito
+Edit6: commit remoto

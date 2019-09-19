@@ -3,3 +3,4 @@ Edit1: só testando mesmo
 Edit2: 
 Edit3: 
 Edit4: testando branch
+Edit5: segunda edição para gerar conflito (branch teste)
